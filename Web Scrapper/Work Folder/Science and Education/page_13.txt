@@ -1,0 +1,13 @@
+BARCELONA: Next-generation wireless technology is taking the medical world a step closer to robots performing remotely-controlled surgery, a doctor in Spain said on Wednesday after carrying out the world’s first 5G-powered telementored operation. 
+Doctors have telementored surgeries in the past using wireless networks but blazing fast 5G increases image quality and definition which are crucial for medical teams to take decisions with as much information, and as few mistakes, as possible. 
+“This is a first step to achieving our dream, which is to make remote operations in the near future,” said Doctor Antonio de Lacy, after providing real-time guidance via a 5G video link from a Barcelona congress centre to a surgical team which operated on a patient with an intestinal tumour about five kilometres away at the Hospital Clinic. 
+5G greatly reduces latency — the time it takes to get a response to information sent — of wireless networks so images and data are relayed almost instantly. 
+Experts predict in the future 5G will allow surgeons to control a robot arm to carry out operations in remote locations that lack specialist doctors. 
+De Lacy, the head of the hospital’s gastrointestinal surgery service, used his finger to draw on a screen an area of the intestine where nerves are located and instructed the team how to navigate the surgery. 
+The demonstration was part of the Mobile World Congress, the mobile industry’s biggest annual and global event, which is being held in the Mediterranean coastal city this week. 
+John Hoffman, the chief executive officer of mobile communications industry body GSMA which organises the annual trade fair, said it was “the world’s first 5G mentored live surgery”.  
+“This is truly revolutionary and just one of the benefits that 5G will bring us,” he added. 
+During the operation the 5G connection had a lag time of just 0.01 seconds, compared to the 0.27-second latency period with the 4G wireless networks which currently predominate in developing nations. 
+“If you are going to do remote assisted surgery, you need to be almost there in person. You cannot have more than a couple of milliseconds latency. And that is where 5G technology comes in,” GSMA director general Mats Granryd said. 
+5G’s lower latency, faster speeds and vast data capacity could also help revolutionise multiplayer mobile gaming, factory robots and make possible new technologies such as self-driving cars.
+Published in Dawn, February 28th, 2019

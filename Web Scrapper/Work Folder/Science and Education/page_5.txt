@@ -1,0 +1,19 @@
+Widespread adoption of artificial intelligence (AI) and machine learning technologies in recent years has provided “threat actors with sophisticated new tools to perpetrate attacks”, cybersecurity company Kaspersky Research said in a press release on Saturday.
+The security firm explained that one such tool was deepfake which includes generated human-like speech or photo and video replicas of people. Kaspersky warned that companies and consumers must be aware that deepfakes will likely become more of a concern in the future.
+A deepfake — a portmanteau of deep learning and fake — synthesised “fake images, video and sound using artificial intelligence”, Kaspersky explains on its website.
+The security firm warned that it had found deepfake creation tools and services available on “darknet marketplaces” to be used for fraud, identity theft and stealing confidential data.
+“According to the estimates by Kaspersky experts, prices per one minute of a deepfake video can be purchased for as little as $300,” the press release reads.
+According to the press release, a recent Kaspersky survey found that 51 per cent of employees surveyed in the Middle East, Turkiye and Africa region said they could tell a deepfake from a real image. However, in a test, only 25pc could distinguish a real image from an AI-generated one.
+“This puts organisations at risk given how employees are often the primary targets of phishing and other social engineering attacks,” the firm warned.
+ 
+ 
+
+“Despite the technology for creating high-quality deepfakes not being widely available yet, one of the most likely use cases that will come from this is to generate voices in real-time to impersonate someone,” the press release quoted Hafeez Rehman, technical group manager at Kaspersky, as saying.
+Rehman added that deepfakes were not only a threat to businesses, but to individual users as well. “They spread misinformation, are used for scams, or to impersonate someone without consent,” he said, stressing that they were a growing cyber threat to be protected from.
+The Global Risks Report 2024, released by the World Economic Forum in January, had warned that AI-fuelled misinformation was a common risk for India and Pakistan.
+ 
+ 
+
+Deepfakes have been used in Pakistan to further political aims, particularly in anticipation of general elections.
+Former prime minister Imran Khan — who is currently incarcerated at Adiala Jail — had used an AI-generated image and voice clone to address an online election rally in December, which drew more than 1.4 million views on YouTube and was attended live by tens of thousands.
+While Pakistan has drafted an AI law, digital rights activists have criticised the lack of guardrails against disinformation, and to protect vulnerable communities.
